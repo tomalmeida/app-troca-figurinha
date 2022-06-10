@@ -1,0 +1,7 @@
+{
+  "name": "app-troca-figurinha",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
